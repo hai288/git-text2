@@ -6,6 +6,7 @@
     <title>coba git remote</title>
 </head>
 <body>
-    <h1>pengenalan php<h1>
+    <h2>hello world</h2>
+    <h1>pengenalan php</h1>
 </body>
 </html>
